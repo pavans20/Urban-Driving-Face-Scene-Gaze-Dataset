@@ -8,7 +8,8 @@ The data was collected using Transportation Engineering Lab Instrumented Vehicle
 
 ## How to Access the Dataset
 The dataset is freely available for research purposes only and must not be used for any commercial or profit-driven activities. Interested researchers can request access by completing the Google Form, the link provided below.
-https://docs.google.com/forms/d/e/1FAIpQLSds45uPzwGJa2hYOXk2_2cKMeXZzrd5UMcKl5RIaT-DDMtcXQ/viewform?usp=sharing&ouid=106684247391490606111
+[Fill out the form](https://docs.google.com/forms/d/e/1FAIpQLSds45uPzwGJa2hYOXk2_2cKMeXZzrd5UMcKl5RIaT-DDMtcXQ/viewform?usp=sharing&ouid=106684247391490606111)
+
 
 ### Instrumented Vehicle used in Data Collection
 
