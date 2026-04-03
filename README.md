@@ -1,4 +1,4 @@
-# Urban-Driving-Face-Scene-Gaze-Dataset
+# Urban Driving-Face Scene Gaze (UD-FSG) Dataset 
 This repository consists of description about the UD-FSG Dataset along with sample data and the contact details to acces the dataset. 
 
 ## Description about UD-FSG Dataset 
