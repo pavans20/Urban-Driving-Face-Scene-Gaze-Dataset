@@ -28,4 +28,4 @@ Visualization of driver gaze point distribution of UD-FSG dataset: (a) Gaze poin
 
 <img width="3600" height="2100" alt="Gaze_Density" src="https://github.com/user-attachments/assets/41694bb8-ac38-4177-a4ac-71e9f4bfa4be" />
 Visualization of driver gaze point distribution of UD-FSG dataset: (b) Gaze density heatmap computed by aggregating point-of-gaze (PoG) coordinates over 5×5 pixel grid
-![Sensor Setup](https://github.com/user-attachments/assets/21024c2b-e398-436e-a311-a83919bcd85f)
+
