@@ -14,11 +14,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSds45uPzwGJa2hYOXk2_2cKMeXZzrd5UMcKl5RI
 
 ![IMG_20241121_165239937](https://github.com/user-attachments/assets/0391eafe-2954-4699-b97a-3f1c161ed6e1)
 
-![Data_Sample1](https://github.com/user-attachments/assets/e3f5d363-c7d4-4b16-bd5a-4099ffd5b87e)
+![Sensor Setup](https://github.com/user-attachments/assets/21024c2b-e398-436e-a311-a83919bcd85f)
 For Driver Point-of-Gaze Estimation only Dashboard Face Camera, Dashboard Scene Camera and Eye Tracker Data is Used. 
 
 ### Data Sample
-
+![Data_Sample1](https://github.com/user-attachments/assets/e3f5d363-c7d4-4b16-bd5a-4099ffd5b87e)
 Sample of UD-FSG Dataset consist of different pairs Face-Scene image, collected in different traffic densities and lighting conditions. 
 
 ### Dataset Charecterstics
@@ -28,3 +28,4 @@ Visualization of driver gaze point distribution of UD-FSG dataset: (a) Gaze poin
 
 <img width="3600" height="2100" alt="Gaze_Density" src="https://github.com/user-attachments/assets/41694bb8-ac38-4177-a4ac-71e9f4bfa4be" />
 Visualization of driver gaze point distribution of UD-FSG dataset: (b) Gaze density heatmap computed by aggregating point-of-gaze (PoG) coordinates over 5×5 pixel grid
+![Sensor Setup](https://github.com/user-attachments/assets/21024c2b-e398-436e-a311-a83919bcd85f)
