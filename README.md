@@ -1,5 +1,5 @@
 # Urban-Driving-Face-Scene-Gaze-Dataset
-This repository consists of description about the UD-FSG Dataset along with sample data and the contact details to access or request for get the data 
+This repository consists of description about the UD-FSG Dataset along with sample data and the contact details to acces the dataset. 
 
 ## Description about UD-FSG Dataset 
 Urban Driving–Face Scene Gaze (UD-FSG) dataset is a large- scale benchmark real driving gaze dataset comprising data from 35 drivers, which includes 3,73,488 driver face and scene image pairs along with 2D gaze ground truth coordinates. The data was collected in Kanpur city on Arterial and Sub-Arterial roads to include the variation in Traffic densities and different times of the day to account traffic light conditions on the driver face. Each driver drove approx 1 hours driving, covering approx 30-35 KM distance. The data was collected in Two phase in the year 2024 and 2025 to include the variations in weather conditions. 
